@@ -10,6 +10,6 @@ package com.atguigu.gmall.pay.controller;
 public class PayController {
 
     public void pay(){
-
+        System.out.println("python小组开发支付模块");
     }
 }
