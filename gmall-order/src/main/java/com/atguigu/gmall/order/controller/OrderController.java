@@ -1,5 +1,6 @@
 package com.atguigu.gmall.order.controller;
 
+
 /**
  * OrderController
  *
@@ -8,5 +9,7 @@ package com.atguigu.gmall.order.controller;
  * @Description: 用来表示javaBean
  */
 public class OrderController {
-
+        public void order(){
+            System.out.println("java小组开发订单模块");
+        }
 }
