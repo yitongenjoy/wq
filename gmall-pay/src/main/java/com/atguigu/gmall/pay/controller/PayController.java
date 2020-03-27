@@ -11,5 +11,6 @@ public class PayController {
 
     public void pay(){
         System.out.println("python小组开发支付模块");
+        System.out.println("支付模块自己修改");
     }
 }
